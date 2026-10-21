@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.17",
-    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.17/bytetrack-shorts-studio-v1.0.17.zip",
-    "sha256":  "0d68d0b1d3f1a634d1416cd1e725fe931d17abd762bcfb6d9eac926e1633b05e",
-    "changelog":  "Removes long narration pauses and retimes Komika Axis captions to match. Loops picture source footage when narration lasts longer than the source. Keeps v1.0.16 full-picture crop, emoji titles, background music, and GPU/CPU acceleration."
+  "version": "1.0.19",
+  "download_url": "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.19/bytetrack-shorts-studio-v1.0.19.zip",
+  "sha256": "4988302622cc6b781c7f2f704c1c54e70867d8b43cf71d50bcaeeb59d5accbcd",
+  "changelog": "Gaming-inspired dark purple and cyan dashboard refresh; retains YouTube uploader, five-hour scheduling, narration and full-picture improvements."
 }
