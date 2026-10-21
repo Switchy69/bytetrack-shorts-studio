@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.14",
-    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.14/bytetrack-shorts-studio-v1.0.14.zip",
-    "sha256":  "1322cf1955f380f1aae04f3a22b2ce5b407d61f0281731c6e88c010f535efc2c",
-    "changelog":  "Fix OpenCV HoughLinesP shape handling that caused all five picture-extraction jobs to fail with numpy.int32 object is not iterable."
+    "version":  "1.0.16",
+    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.16/bytetrack-shorts-studio-v1.0.16.zip",
+    "sha256":  "f05fde7aec28a843a1ea751d232edf5ac639065a9d8e60862829075a75cd3ea1",
+    "changelog":  "Includes v1.0.15 full outer-picture crop fix plus readable emoji-based, topic-aware finished MP4 filenames. Preserves Komika Axis, music, editor and acceleration."
 }
