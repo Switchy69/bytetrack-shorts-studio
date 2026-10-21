@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.7",
-    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.7/bytetrack-shorts-studio-v1.0.7.zip",
-    "sha256":  "834c32832ca5cbb4a6b102b9ee0d9c64f9c64ddd50d38868484665e046595a70",
-    "changelog":  "Fixes updater crash from removed auto_button UI, keeps manual update checks responsive, and retains fallback caption timings when Edge TTS omits word-boundary events."
+    "version":  "1.0.9",
+    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.9/bytetrack-shorts-studio-v1.0.9.zip",
+    "sha256":  "3d994f717a444b5055f067bc94eb3c780bcc531f5b292fd56df5b733df55c2ac",
+    "changelog":  "Adds a separate preview and re-edit window, persistent default style for all future Shorts, and caption regeneration for saved sources."
 }
