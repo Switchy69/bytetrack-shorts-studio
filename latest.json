@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.5",
-    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.5/bytetrack-shorts-studio-v1.0.5.zip",
-    "sha256":  "8a2666643dd3ed7bde000894ff448e9a7c40906b5e9228651707a7223f914aa2",
-    "changelog":  "Adds a direct Check for updates button, prevents manual checks being dropped during startup polling, and forces fresh manifest requests to avoid stale cached versions."
+    "version":  "1.0.6",
+    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.6/bytetrack-shorts-studio-v1.0.6.zip",
+    "sha256":  "f2ed2973012f66557a28cced9d12f8598f6bfb1d393fe1535d89d0ca056e1129",
+    "changelog":  "Fixes missing timed captions when Edge TTS returns audio without word-boundary events. Creates fallback caption timings from the audio duration, or an estimated speech rate, so processing can continue."
 }
