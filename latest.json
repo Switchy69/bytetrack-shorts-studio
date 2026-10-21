@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.12",
-    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.12/bytetrack-shorts-studio-v1.0.12.zip",
-    "sha256":  "db7bf23e54f06cb35db34b74cb0229862dc8d16c5e7852f7892b3f2d4947aa89",
-    "changelog":  "Tighter top crop and improved Komika Axis font discovery; retains background music and GPU/CPU speed optimizations."
+    "version":  "1.0.13",
+    "download_url":  "https://github.com/Switchy69/bytetrack-shorts-studio/releases/download/v1.0.13/bytetrack-shorts-studio-v1.0.13.zip",
+    "sha256":  "46140840bef43557ba4f9f6e2b7f2bdec45485791330a10f819b0a73cebf92ee",
+    "changelog":  "New picture-only extraction and exact Komika Axis caption rendering; preserves music and accelerated encoding."
 }
